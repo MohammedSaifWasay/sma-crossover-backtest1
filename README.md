@@ -73,13 +73,6 @@ python grid_search.py --ticker SPY --start 2015-01-01 --end 2025-01-01 --fast_ra
 
 ---
 
-## 🧩 Resume-Ready Bullets
-- *Backtested SMA crossover strategies on SPY using Python; evaluated Sharpe, CAGR, and drawdowns with transaction costs and slippage.*
-- *Built a parameter sweep with heatmap visualization to optimize fast/slow windows; improved Sharpe over baseline configurations.*
-- *Engineered a modular backtesting framework (data, signals, PnL) with offline fallback and reproducible CSV/figure outputs.*
-
----
-
 ## 🧠 Author
 **Mohammed Saif Wasay**  
 *Data Analytics Graduate — Northeastern University*  
